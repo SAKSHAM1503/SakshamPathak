@@ -1,3 +1,3 @@
 # SakshamPathak
-Thiois is the first project
-Saksham pathak
+This is my first GIT project
+
